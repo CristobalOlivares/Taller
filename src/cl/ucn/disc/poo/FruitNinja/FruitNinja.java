@@ -2,7 +2,7 @@
  * Copyright (c) 2026. Programacion Orientada al Objeto, DISC. UCN, Antofagasta.
  */
 
-package cl.ucn.disc.poo.rebote;
+package cl.ucn.disc.poo.FruitNinja;
 
 /*
  * Clase principal del juego "Fruit Ninja: Figuras".
