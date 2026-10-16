@@ -2,7 +2,7 @@
  * Copyright (c) 2026. Programacion Orientada al Objeto, DISC. UCN, Antofagasta.
  */
 
-package cl.ucn.disc.poo.rebote;
+package cl.ucn.disc.poo.FruitNinja;
 
 import edu.princeton.cs.stdlib.StdDraw;
 import java.awt.Color;
